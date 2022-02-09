@@ -1,0 +1,43 @@
+variable,correlation,pvalue,n,sig_diff_from
+Washington Post,0.8196885999705371,0.04583714123245319,6,Game Revolution
+BaziCenter,0.65853947673943,0.0384035783425594,10,Game Revolution
+Game Rant,0.6442758526198277,0.0029070412579913006,19,"PC Invasion, Hey Poor Player, Shacknews, TheSixthAxis, The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+Player 2,0.6085099923411909,7.576676406258805e-4,27,"GameStar, PC Invasion, Hey Poor Player, Shacknews, TheSixthAxis, The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+Hooked Gamers,0.540869685784626,0.0011545742136693069,33,Game Revolution
+Meristation,0.5337782675477595,9.428026212589293e-6,61,"PC Invasion, Hey Poor Player, TheSixthAxis, The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+Finger Guns,0.5105695066541889,0.021431000853300197,20,Game Revolution
+Hardcore Gamer,0.5059294254354805,5.951101909688688e-5,57,"The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+Gamersky,0.49773924991129204,0.025534316666812745,20,Game Revolution
+IGN Italia,0.49536705920176416,2.349814550721569e-5,66,"The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+Jeuxvideo.com,0.4678986971181923,4.846885556524022e-8,123,"The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution"
+GameCritics,0.4570949730997804,8.911440820617415e-5,68,Game Revolution
+Millenium,0.456680898272445,0.0011035231302120613,48,Game Revolution
+Everyeye.it,0.444397892827049,9.652410440245921e-4,52,Game Revolution
+Riot Pixels,0.44259100667039764,0.0012889556281036416,50,Game Revolution
+CD-Action,0.43092726931034603,2.608244413192415e-6,110,Game Revolution
+Worth Playing,0.42499437002041607,0.00323890087208895,46,Game Revolution
+WellPlayed,0.4165956037233446,0.019737486248951646,31,Game Revolution
+Impulsegamer,0.4137837275407322,0.012119081488111432,36,Game Revolution
+IGN,0.41311823305895484,9.402255998606804e-5,84,Game Revolution
+Ragequit.gr,0.4050171670574829,0.001462701317420012,59,Game Revolution
+Wccftech,0.4022145676727811,0.002570165302657364,54,Game Revolution
+Gamer Escape,0.389696229369064,0.04907557724373854,26,Game Revolution
+meta_score,0.38661186301335504,2.8472500355158347e-11,276,Game Revolution
+COGconnected,0.3864613996050951,4.3493637455894145e-4,79,Game Revolution
+Softpedia,0.3660718185943873,0.018578942776241662,41,Game Revolution
+New Game Network,0.3476699148444072,0.020752969967571096,44,Game Revolution
+SpazioGames,0.34708702261544705,0.00816474351084054,57,Game Revolution
+TheGamer,0.34482338021514364,0.014193477023541132,50,Game Revolution
+PC Games,0.34232936668307506,0.0015361603296345436,83,Game Revolution
+Multiplayer.it,0.3348343265708476,3.6130333156520554e-5,146,Game Revolution
+GamingTrend,0.3219316044825171,0.007424582683656324,68,Game Revolution
+GameStar,0.3123230101175626,0.0021794840865457326,94,"Player 2, Game Revolution"
+PC Invasion,0.3072508936920527,1.4558840638726774e-4,148,"Game Rant, Player 2, Meristation, Game Revolution"
+Hey Poor Player,0.29187337894110055,0.007061958156402788,84,"Game Rant, Player 2, Meristation, Game Revolution"
+Shacknews,0.2758499707792251,0.039606687548712924,56,"Game Rant, Player 2, Game Revolution"
+TheSixthAxis,0.26886981735191234,0.027802442843934468,67,"Game Rant, Player 2, Meristation, Game Revolution"
+The Games Machine,0.26252598985952624,0.012940123254744423,89,"Game Rant, Player 2, Meristation, Hardcore Gamer, IGN Italia, Jeuxvideo.com, Game Revolution"
+Noisy Pixel,0.2569171322264225,0.014507686168664161,90,"Game Rant, Player 2, Meristation, Hardcore Gamer, IGN Italia, Jeuxvideo.com, Game Revolution"
+Eurogamer Italy,0.2476512708828496,0.026772233801245895,80,"Game Rant, Player 2, Meristation, Hardcore Gamer, IGN Italia, Jeuxvideo.com, Game Revolution"
+Checkpoint Gaming,0.24759637512424112,0.025843530753431248,81,"Game Rant, Player 2, Meristation, Hardcore Gamer, IGN Italia, Jeuxvideo.com, Game Revolution"
+Game Revolution,-0.6061994394049727,0.028074027881243746,13,"Washington Post, BaziCenter, Game Rant, Player 2, Hooked Gamers, Meristation, Finger Guns, Hardcore Gamer, Gamersky, IGN Italia, Jeuxvideo.com, GameCritics, Millenium, Everyeye.it, Riot Pixels, CD-Action, Worth Playing, WellPlayed, Impulsegamer, IGN, Ragequit.gr, Wccftech, Gamer Escape, meta_score, COGconnected, Softpedia, New Game Network, SpazioGames, TheGamer, PC Games, Multiplayer.it, GamingTrend, GameStar, PC Invasion, Hey Poor Player, Shacknews, TheSixthAxis, The Games Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming"
