@@ -1,4 +1,4 @@
-# metacritic_scraper
+# metacritic_scraper 📈
 
 I scraped this data intending to answer the following questions for PC games:
 
