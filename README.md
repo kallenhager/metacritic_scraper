@@ -1,6 +1,6 @@
 # metacritic_scraper 
 
-I scraped this data intending to answer the following questions for PC games:
+I scraped critic scores from Metacritic to answer the following questions:
 
 * **Do metacritic scores correlate with sales?**
     * Should a videogame publisher/developer pay attention to critic reviews?
