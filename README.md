@@ -11,10 +11,10 @@ I scraped critic scores from Metacritic to answer the following questions:
 ## [🕷️Scraper.ipynb (Python)](scraper/my_scrape.ipynb)
    [Metacritic_Steam_2021.csv](scraper/Metacritic_Steam_2021.csv)
 ## [📈Analysis.ipynb (Python and R)](analysis/analysis.ipynb)
-   [Critic Reviews by Correlations with Sales](analysis/analyzed.csv)
+   [Analyzed.csv](analysis/analyzed.csv)
 
 ## Findings:
-These critics scores are positively and significantly correlated with the total number of Steam reviews the game received, our proxy for sales. The data seems to indicate that these critics know what makes a game sell (except *Game Revolution*, which is sigificantly negatively correlatated, do the opposite of what they say).
+These critics scores ([analyzed.csv](analysis/analyzed.csv)) are positively and significantly correlated with the total number of Steam reviews the game received, our proxy for sales. The data seems to indicate that these critics know what makes a game sell (except *Game Revolution*, which is sigificantly negatively correlatated, do the opposite of what they say).
 <br>
 <br>
 
