@@ -25,7 +25,7 @@ These critics scores ([analyzed.csv](analysis/analyzed.csv)) are positively and 
 * *Game Rant, Player 2, Meristation, Hardcore Gamer, IGN Italia, Jeuzvideo.com.*
 
 **Medium Tier**: These critic's correlations are not significantly different than the others in the table.
-* *Game Critics, Millenium, Evereye.it, Riot Pixels, CD-ACtion, Worth Playing, Impulsegamer, IGN, Ragequit.gr, Mccftech, Gamer Escape, meta_score, COGconnected, Softpedia, New Game Network, SpazioGames, TheGamer, PC Games, Multiplayer.it, GamingTrend, GameStar*(\*signficantly worse than Player 2)
+* *Game Critics, Millenium, Evereye.it, Riot Pixels, CD-ACtion, Worth Playing, Impulsegamer, IGN, Ragequit.gr, Mccftech, Gamer Escape, meta_score, COGconnected, Softpedia, New Game Network, SpazioGames, TheGamer, PC Games, Multiplayer.it, GamingTrend, GameStar(exception, worse than Player 2)* 
 
 **Bottom Tier**: These critic's correlations are significantly less than the top tier.
 * *PC Invasion, Hey Poor Player, Shacknews, TheSixthAxis, The Game Machine, Noisy Pixel, Eurogamer Italy, Checkpoint Gaming, Game Revolution*
