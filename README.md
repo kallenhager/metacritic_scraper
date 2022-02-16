@@ -18,7 +18,7 @@ These critics scores ([analyzed.csv](analysis/analyzed.csv)) are positively and 
 <br>
 <br>
 
-**Best Critic**: Better than one more critic than the rest of the top tier  
+**Best Critic**: Top tier, and also better than Gamestar  
  * *Player 2*
 
 **Top Tier**: These critic's correlations are significantly greater than the bottom tier.
